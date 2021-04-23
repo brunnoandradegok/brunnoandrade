@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunnoandrade/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&color=red&logo=Instagram&logoColor=white)](https://instagram.com/brunnoandrade/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/brunnoandrade/)
-[![Linktree Badge](https://img.shields.io/badge/-Linktree-1ca0f1?style=flat&logo=Linktree&color=green&logoColor=white)](https://twitter.com/brunnoandrade/)
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-1ca0f1?style=flat&logo=Linktree&color=green&logoColor=white)](https://linktr.ee/brunnoandrade/)
 
 ## Hi there 👋
 
