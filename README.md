@@ -15,7 +15,7 @@ My name is Bruno Andrade, i'am a Developer Mobile at GO.K, i'am passionate about
 
 
 - 🔭 I’m currently working on [GO.K](https://gok.digital/) as a Mobile Developer, a Heath Tech company in São Paulo, Brazil.
-- 💻 Working with JavaScript, TypeScript, NodeJS, React, React Native, ReactJs, PHP, GraphQL and ASP.NET.
+- 💻 Working with JavaScript, TypeScript, NodeJS, React, React Native, ReactJs, PHP, Redux, GraphQL and ASP.NET.
 - 🌱 I’m currently learning Vue.js.
 - 💬 Ask me about Mobile Development, Web and Backend.
 
