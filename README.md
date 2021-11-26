@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">Bruno Andrade</h1>
-  <h4 align="center">Mobile Developer</>
+  <h4 align="center">Senior Mobile Developer</>
 </p>
 
 
